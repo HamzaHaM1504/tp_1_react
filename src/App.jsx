@@ -12,7 +12,7 @@ export default function App() {
       {/* <Form/> */}
       {/* <MDP/> */}
       {/* <ChercheBar/> */}
-      <Cube/>
+      {/* <Cube/> */}
     </>
   )
 }
